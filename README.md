@@ -7,3 +7,4 @@
 |일자|내용|Slide|
 |---|---|---|
 |2022.02.05|XAI Study Week 01||
+|2022.02.10|XAI Study Week 02||
