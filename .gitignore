@@ -1,6 +1,7 @@
-논문
-data
-**/.ipynb_checkpoints/
-**/__pycache__/
-**/.DS_Store
-.gitignore
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+.DS_Store
+**/*.DS_Store
+**/__MACOSX
+**/*data*
+**/.venv
