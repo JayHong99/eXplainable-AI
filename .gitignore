@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+.DS_Store
+**/*.DS_Store
+**/__MACOSX
+**/*data*
+**/.venv
+**/*submissions*
+**/model
+**/__pycache__
